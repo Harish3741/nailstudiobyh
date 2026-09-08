@@ -25,19 +25,19 @@ Instagram: [@nailstudio_byh](https://www.instagram.com/nailstudio_byh/)
 ### Pricing (effective 1 Feb 2026)
 
 **Services**
-- Gel Extensions (Gel X) — from $65
-- BIAB (Soft Gel) — from $50
-- Gel Manicure — from $35
+- Gel Extensions (Gel X) — from $70
+- BIAB (Soft Gel) — from $55
+- Gel Manicure — from $40
 
 **Removals (own work only)**
-- Removal + manicure — $20
-- Removal + Gel X — $80
-- Removal + BIAB — $65
+- Removal + manicure — $25
+- Removal + Gel X — $85
+- Removal + BIAB — $70
 - Removal + Gel Manicure — $50
 
 **Infills (own work only)**
-- 3–4 weeks — +$5 on BIAB price
-- 4+ weeks — +$10 on BIAB price
+- Less than 4 weeks — +$5 on BIAB price
+- 4 or more weeks — +$10 on BIAB price
 
 Design add-ons vary by complexity — DM for custom quote.
 
@@ -46,7 +46,7 @@ Design add-ons vary by complexity — DM for custom quote.
 - No walk-ins, no foreign removals or infills
 - Come with bare nails unless booked for an infill
 - Late fee: $10 if 10+ minutes late; appointment cancelled at 20 minutes
-- Payment: card or cash only (no bank transfers)
+- Payment: bank transfer / PayID / cash
 
 ---
 
