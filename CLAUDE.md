@@ -90,7 +90,7 @@ Match the aesthetic of the Instagram page — moody, minimal, luxe.
 
 Single-page scroll with anchor nav:
 
-1. **#hero** — Full-viewport intro with sparkle animation, "Handcrafted Gel Nails" headline, Book CTA
+1. **#hero** — Full-viewport intro with sparkle animation, "Nail Studio by Hannah" headline, Book CTA
 2. **#about** — Bio text + meta chips + logo circle
 3. **#services** — Pricing cards (Services / Removals / Infills)
 4. **#gallery** — 3-column grid of 9 tiles linking to Instagram posts
